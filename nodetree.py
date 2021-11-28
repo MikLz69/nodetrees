@@ -1,4 +1,4 @@
-
+# with recursions
 class Node:
     def __init__(self, value, right, left) -> None:
         self.value = value
