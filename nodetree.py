@@ -5,7 +5,6 @@ class Node:
         self.right = right
         self.left = left
 
-
 def printNodes(node: Node, lines: int):
 
     print(" " * lines + str(node.value))
